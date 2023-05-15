@@ -18,5 +18,7 @@ Inspired by [Track-Anything](https://github.com/gaomingqi/Track-Anything), Track
 
 In order to execute the code, it is required to have a minimum of either one 40GB GPU or two 32GB GPUs.
 
+This section is to be done.
+
 ## License
 This repository is released under [BSD 3-Clause License](LICENSE.md).
