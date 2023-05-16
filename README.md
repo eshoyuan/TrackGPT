@@ -14,6 +14,9 @@ Inspired by [Track-Anything](https://github.com/gaomingqi/Track-Anything), Track
 2. Text prompt: I want to track elon.
 ![](docs/elon.gif)
 
+3. Text prompt: Help me focus on the man playing basketball.
+![](docs/ikun.gif)
+
 ## Setup
 
 In order to execute the code, it is required to have a minimum of either one 40GB GPU or two 32GB GPUs.
